@@ -1,0 +1,7 @@
+D:\C#语言仓库\hello_cSharp\StringStudy\bin\Debug\StringStudy.exe.config
+D:\C#语言仓库\hello_cSharp\StringStudy\bin\Debug\StringStudy.exe
+D:\C#语言仓库\hello_cSharp\StringStudy\bin\Debug\StringStudy.pdb
+D:\C#语言仓库\hello_cSharp\StringStudy\obj\Debug\StringStudy.csproj.AssemblyReference.cache
+D:\C#语言仓库\hello_cSharp\StringStudy\obj\Debug\StringStudy.csproj.CoreCompileInputs.cache
+D:\C#语言仓库\hello_cSharp\StringStudy\obj\Debug\StringStudy.exe
+D:\C#语言仓库\hello_cSharp\StringStudy\obj\Debug\StringStudy.pdb
