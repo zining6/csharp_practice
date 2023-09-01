@@ -1,0 +1,14 @@
+D:\C#语言仓库\hello_cSharp\ClassStudy\bin\Debug\netcoreapp3.1\ClassStudy.exe
+D:\C#语言仓库\hello_cSharp\ClassStudy\bin\Debug\netcoreapp3.1\ClassStudy.deps.json
+D:\C#语言仓库\hello_cSharp\ClassStudy\bin\Debug\netcoreapp3.1\ClassStudy.runtimeconfig.json
+D:\C#语言仓库\hello_cSharp\ClassStudy\bin\Debug\netcoreapp3.1\ClassStudy.runtimeconfig.dev.json
+D:\C#语言仓库\hello_cSharp\ClassStudy\bin\Debug\netcoreapp3.1\ClassStudy.dll
+D:\C#语言仓库\hello_cSharp\ClassStudy\bin\Debug\netcoreapp3.1\ClassStudy.pdb
+D:\C#语言仓库\hello_cSharp\ClassStudy\obj\Debug\netcoreapp3.1\ClassStudy.csproj.AssemblyReference.cache
+D:\C#语言仓库\hello_cSharp\ClassStudy\obj\Debug\netcoreapp3.1\ClassStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#语言仓库\hello_cSharp\ClassStudy\obj\Debug\netcoreapp3.1\ClassStudy.AssemblyInfoInputs.cache
+D:\C#语言仓库\hello_cSharp\ClassStudy\obj\Debug\netcoreapp3.1\ClassStudy.AssemblyInfo.cs
+D:\C#语言仓库\hello_cSharp\ClassStudy\obj\Debug\netcoreapp3.1\ClassStudy.csproj.CoreCompileInputs.cache
+D:\C#语言仓库\hello_cSharp\ClassStudy\obj\Debug\netcoreapp3.1\ClassStudy.dll
+D:\C#语言仓库\hello_cSharp\ClassStudy\obj\Debug\netcoreapp3.1\ClassStudy.pdb
+D:\C#语言仓库\hello_cSharp\ClassStudy\obj\Debug\netcoreapp3.1\ClassStudy.genruntimeconfig.cache

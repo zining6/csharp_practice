@@ -1,0 +1,7 @@
+D:\C#语言仓库\hello_cSharp\ArrayStudy\bin\Debug\ArrayStudy.exe.config
+D:\C#语言仓库\hello_cSharp\ArrayStudy\bin\Debug\ArrayStudy.exe
+D:\C#语言仓库\hello_cSharp\ArrayStudy\bin\Debug\ArrayStudy.pdb
+D:\C#语言仓库\hello_cSharp\ArrayStudy\obj\Debug\ArrayStudy.csproj.AssemblyReference.cache
+D:\C#语言仓库\hello_cSharp\ArrayStudy\obj\Debug\ArrayStudy.csproj.CoreCompileInputs.cache
+D:\C#语言仓库\hello_cSharp\ArrayStudy\obj\Debug\ArrayStudy.exe
+D:\C#语言仓库\hello_cSharp\ArrayStudy\obj\Debug\ArrayStudy.pdb
